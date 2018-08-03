@@ -1,0 +1,7 @@
+docx==0.2.4
+lxml==4.2.4
+nltk==3.3
+Pillow==5.2.0
+pyPdf==1.13
+pytz==2018.5
+six==1.11.0
