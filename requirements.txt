@@ -1,6 +1,6 @@
 python-docx==0.8.6
 lxml==4.2.4
-nltk==3.4.5
+nltk==3.6.6
 Pillow==5.2.0
 pyPdf==1.13
 pytz==2018.5
